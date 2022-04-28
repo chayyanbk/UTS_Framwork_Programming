@@ -1,0 +1,171 @@
+CRITICAL - 2022-04-08 06:32:00 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\Tutor\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Coba/index')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Coba/index')
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-08 06:32:04 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\Tutor\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Coba')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Coba')
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-08 06:32:54 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\Tutor\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Coba')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Coba')
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-08 06:32:56 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\Tutor\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Coba')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Coba')
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-08 06:33:15 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\Tutor\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Coba')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Coba')
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-08 06:33:53 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\Tutor\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Coba')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Coba')
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-08 06:36:16 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\Tutor\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Coba/index')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Coba/index')
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-08 06:36:19 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\Tutor\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Coba/')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Coba/')
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-08 06:36:24 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\Tutor\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Coba')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Coba')
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-08 06:37:47 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\Tutor\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Coba/halaman')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Coba/halaman')
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-08 06:53:09 --> Too few arguments to function App\Controllers\Coba::Next(), 0 passed in C:\xampp\htdocs\Tutor\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(832): App\Controllers\Coba->Next()
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Coba))
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-08 07:00:19 --> Too few arguments to function App\Controllers\Coba::Next(), 3 passed in C:\xampp\htdocs\Tutor\system\CodeIgniter.php on line 832 and exactly 4 expected
+#0 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(832): App\Controllers\Coba->Next('Bagas', 'Undiknas', '41930032')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Coba))
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-08 07:01:04 --> Too few arguments to function App\Controllers\Coba::Next(), 0 passed in C:\xampp\htdocs\Tutor\system\CodeIgniter.php on line 832 and exactly 4 expected
+#0 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(832): App\Controllers\Coba->Next()
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Coba))
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-08 07:01:12 --> Too few arguments to function App\Controllers\Coba::Next(), 3 passed in C:\xampp\htdocs\Tutor\system\CodeIgniter.php on line 832 and exactly 4 expected
+#0 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(832): App\Controllers\Coba->Next('Bagas', 'Undiknas', '41930032')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Coba))
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-08 07:01:19 --> Too few arguments to function App\Controllers\Coba::Next(), 3 passed in C:\xampp\htdocs\Tutor\system\CodeIgniter.php on line 832 and exactly 4 expected
+#0 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(832): App\Controllers\Coba->Next('Bagas', 'Undiknas', '41930032')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Coba))
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-08 07:01:42 --> syntax error, unexpected ')', expecting variable (T_VARIABLE)
+#0 C:\xampp\htdocs\Tutor\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Coba/next/Bagas...')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Coba/next/Bagas...')
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-08 07:01:57 --> syntax error, unexpected ')', expecting variable (T_VARIABLE)
+#0 C:\xampp\htdocs\Tutor\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Coba/next/Bagas...')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Coba/next/Bagas...')
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-08 07:02:13 --> syntax error, unexpected ')', expecting variable (T_VARIABLE)
+#0 C:\xampp\htdocs\Tutor\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Coba/next/Bagas...')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Coba/next/Bagas...')
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-08 07:02:38 --> syntax error, unexpected ')', expecting variable (T_VARIABLE)
+#0 C:\xampp\htdocs\Tutor\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Coba/next/Bagas...')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Coba/next/Bagas...')
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-08 07:03:17 --> syntax error, unexpected ')', expecting variable (T_VARIABLE)
+#0 C:\xampp\htdocs\Tutor\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Coba/next/Bagas...')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Coba/next/Bagas...')
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-08 07:04:21 --> syntax error, unexpected ')', expecting variable (T_VARIABLE)
+#0 C:\xampp\htdocs\Tutor\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Coba/next/Bagas...')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Coba/next/Bagas...')
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-08 07:05:28 --> syntax error, unexpected 'view' (T_STRING)
+#0 C:\xampp\htdocs\Tutor\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Coba/next/Bagas...')
+#1 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Coba/next/Bagas...')
+#2 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Tutor\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Tutor\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\Tutor\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}

@@ -8,13 +8,4 @@ class Dashboard extends BaseController
     {
         return view('Home');
     }
-    public function About()
-    {
-        return view('About');
-    }
-    public function Contact()
-    {
-        return view('Contact');
-    }
 }
-
